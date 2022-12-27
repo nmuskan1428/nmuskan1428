@@ -46,13 +46,6 @@
 ###   
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nmuskan1428&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
-
-###
-
-[![Nidhi github activity graph](https://activity-graph.herokuapp.com/graph?username=nmuskan1428&theme=react-dark)](https://github.com/nmuskan1428)
-
-###
-
   
 ###  
 
