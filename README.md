@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 Coders</h1>
 
 ## I'm [Nidhi!](https://google.com)👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Software+Engineer;and+Developer+Coder)](https://git.io/typing-svg)
 
 ## About me
 <p align="left">✨ Creating bugs since  2018<br>📚 I'm a tech enthusiast<br>🎯 Goals: Developer<br>🎲 Fun fact: I'm same as you</p>
@@ -49,7 +49,7 @@
 
 ###
 
-[![Hritik github activity graph](https://activity-graph.herokuapp.com/graph?username=nmuskan1428&theme=react-dark)](https://github.com/nmuskan1428)
+[![Nidhi github activity graph](https://activity-graph.herokuapp.com/graph?username=nmuskan1428&theme=react-dark)](https://github.com/nmuskan1428)
 
 ###
 
@@ -83,14 +83,6 @@
   </a>
 </div>
   
-  
-###
-
-<h2>Holopin Badges</h2>
-  
-###
-  [![@hronholopin's Holopin board](https://holopin.me/hronholopin)](https://holopin.io/@hronholopin)
-
 ###
 
 <!-- github tropies -->
