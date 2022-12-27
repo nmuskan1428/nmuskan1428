@@ -73,9 +73,9 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nmuskan1428" target="_blank">
-    <img src="https://twitter.com/noerrornidhi?t=pKX7ORIFExK56ZXBHh9TYQ&s=09" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/heyhritik_?t=lWBRTB2Lti2y2pZoTfMpww&s=09" target="_blank">
+  <a href="https://twitter.com/noerrornidhi?t=pKX7ORIFExK56ZXBHh9TYQ&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/noerror.nidhi/" target="_blank">
