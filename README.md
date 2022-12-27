@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 Coders</h1>
 
 ## I'm [Nidhi!](https://google.com)👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm a+Software+Engineer;and+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Software+Engineer;and+Developer)](https://git.io/typing-svg)
 
 ## About me
 <p align="left">✨ Creating bugs since  2018<br>📚 I'm a tech enthusiast<br>🎯 Goals: Developer<br>🎲 Fun fact: I'm same as you</p>
