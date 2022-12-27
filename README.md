@@ -1,10 +1,10 @@
 <h1 align="left">Hey 👋 Coders</h1>
 
-## I'm [Hritik!](https://google.com)👋
+## I'm [Nidhi!](https://google.com)👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
 
 ## About me
-<p align="left">✨ Creating bugs since  2021<br>📚 I'm a tech enthusiast<br>🎯 Goals: Pro-Coder<br>🎲 Fun fact: I'm same as you</p>
+<p align="left">✨ Creating bugs since  2018<br>📚 I'm a tech enthusiast<br>🎯 Goals: Developer<br>🎲 Fun fact: I'm same as you</p>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=hrongit&theme=blue-green&&layout=compact">
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=nmuskan1428&theme=blue-green&&layout=compact">
 
 ###  
 
@@ -45,11 +45,11 @@
 
 ###   
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrongit&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nmuskan1428&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
 
 ###
 
-[![Hritik github activity graph](https://activity-graph.herokuapp.com/graph?username=hrongit&theme=react-dark)](https://github.com/hrongit)
+[![Hritik github activity graph](https://activity-graph.herokuapp.com/graph?username=nmuskan1428&theme=react-dark)](https://github.com/nmuskan1428)
 
 ###
 
@@ -61,7 +61,7 @@
 ###   
   
   
-![snake gif](https://github.com/hrongit/hrongit/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nmuskan1428/nmuskan1428/blob/output/github-contribution-grid-snake.gif)
 
 
 ###  
@@ -100,7 +100,7 @@
 ###  
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=hrongit&column=8&theme=algolia&no-frame=true"/>
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=nmuskan1428&column=8&theme=algolia&no-frame=true"/>
 </a>
 
-<h7>@hrongit</h7>
+<h7>@nmuskan1428</h7>
